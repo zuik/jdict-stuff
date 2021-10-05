@@ -11,3 +11,4 @@ class Entry(Base):
     """
     A word entry
     """
+    pass
